@@ -13,6 +13,8 @@ The main aim of this project is to extract the meaning in Turkish texts and to m
 -  **Result:** Texts are finally classified.
 
 ### Technologies
+- Pyhton Version = 3.12.3
+### To Use The Project
 Follow the steps below to use the project:
 
 1. Clone the project repository to your computer.
@@ -61,6 +63,8 @@ Bu projenin ana amacı, Türkçe metinlerdeki anlamı çıkarmak ve bu metinleri
 - **Sonuç:** Metinler nihai olarak sınıflandırılır.
 
 ### Teknolojiler
+- Pyhton Version = 3.12.3
+### Projeyi Kullanmak İçin
 Projenin kullanımı için aşağıdaki adımları izleyin:
 
 1. Proje deposunu bilgisayarınıza klonlayın.
