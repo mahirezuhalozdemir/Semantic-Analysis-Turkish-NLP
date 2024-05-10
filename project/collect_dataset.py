@@ -1,0 +1,1 @@
+# Adım 3 - Veriseti toplama ve etiketleme işlemi yapılır.
