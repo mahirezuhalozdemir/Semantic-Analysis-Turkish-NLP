@@ -46,7 +46,8 @@ pip install joblib
 ```
 3- Perform semantic analysis on texts using the main.py file.
 
-
+<img src="./img/gui-1.png" alt="Gui" width="45%"/> &nbsp;&nbsp;&nbsp;
+<img src="./img/gui-2.png" alt="Gui" width="45%"/>
 
 
 ## Semantik Analiz Projesi
@@ -96,4 +97,5 @@ pip install joblib
 ```
 3- main.py dosyasını kullanarak metinler üzerinde semantik analiz yapın.
 
-
+<img src="./img/gui-1.png" alt="Gui" width="45%"/> &nbsp;&nbsp;&nbsp;
+<img src="./img/gui-2.png" alt="Gui" width="45%"/>
